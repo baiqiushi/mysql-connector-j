@@ -38,6 +38,8 @@ Alternatively, Connector/J can be obtained automatically via [Maven's dependency
 
 This driver can also be complied and installed from the source available in this repository. Please refer to the Connector/J documentation for [detailed instructions](https://dev.mysql.com/doc/connector-j/8.0/en/connector-j-installing-source.html) on how to do it.
 
+#### Note: Another third-party jar [oci-java-sdk-common-2.3.0.jar](https://search.maven.org/artifact/com.oracle.oci.sdk/oci-java-sdk-common/2.3.0/jar) needs to be downloaded and put under the folder `ant-extralibs`.
+
 ### GitHub Repository
 
 This repository contains the MySQL Connector/J source code as per the latest release. No changes are made in this repository between releases.
